@@ -242,7 +242,11 @@ Weather
 
 
 ###Open World Generation Using NASA Mars and Vesta Data
+*	Dataset Products are available online via WMTS-based APIs on api.nasa.gov (https://api.nasa.gov/api.html#trek)
 *	Leverage existing Minecraft customizations such as Galacticraft (https://github.com/micdoodle8/Galacticraft) or vanilla Minecraft (https://minecraft.net/download) and implement as a plugin or mod.  
+*	View Apps using Mars and Vesta Data: 
+..*	http://marstrek.jpl.nasa.gov/ (http://marstrek.jpl.nasa.gov/)
+..*	http://vestatrek.jpl.nasa.gov/ (http://vestatrek.jpl.nasa.gov/)
 
 ***
 ##EARTH
