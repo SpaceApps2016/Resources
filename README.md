@@ -111,6 +111,9 @@ Launch
 	*	NASA Audio Collection: https://archive.org/details/nasaaudiocollection
 *	NASA Launch Animations on Scientific Visualization Studio: https://svs.gsfc.nasa.gov/cgi-bin/search.cgi?value=launch&expanded=filters
 *	Launch Views
+	*	[NASA Kennedy High Definition Gallery](http://www.nasa.gov/centers/kennedy/multimedia/HD-index.html)
+	* 	[NASA Downloadable Videos](http://www.nasa.gov/multimedia/downloadable-video-page)
+	*	[NASA Video Gallery](http://www.nasa.gov/multimedia/videogallery/index.html)
 	*	Jason-3 launch on Falcon 9 from VAFB: https://www.facebook.com/media/set/?set=a.10153938437278117.1073741832.289222453116&type=3
 	*	Antares & Minotaur launches from Wallops: 
 		*	Orb-2: https://www.facebook.com/media/set/?set=a.10153938437278117.1073741832.289222453116&type=3
