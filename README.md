@@ -40,6 +40,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 
 ###Origami Space Recycled
+*	[Integration of FOB System to Crew Transfer Bag](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1150&context=star)
 *	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
 *	3D Printing: Technology Drives Exploration http://www.nasa.gov/topics/technology/manufacturing-materials-3d/index.html
 *	Mechanical CAD Translation Notes https://step.nasa.gov/application_notes/mcad_translation.html  
