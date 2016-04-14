@@ -295,6 +295,21 @@ Weather
 
 ###Aircheck
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
+*	What Worldview is: https://earthdata.nasa.gov/worldview
+*	What EOSDIS is: https://earthdata.nasa.gov/about
+*	To access Worldview, go here: https://worldview.earthdata.nasa.gov/ The first visit should offer a “tour” of how to use the tool to search for various metrics. If not, they can click the “i” icon in the upper right part of the screen to take a tour. The user can add “layers” of the measurements they’re interested in and then narrow by temporal and spatial coordinates as needed.
+*	NOAA CDO-Web Datasets: http://www.ncdc.noaa.gov/cdo-web/datasets
+*	Weather: http://openweathermap.org/datasource
+*	United States Weather Data: NOAA http://www.noaa.gov/
+*	Canada Weather Data: http://www.weatheroffice.gc.ca
+*	European Centre for Medium-Range Weather Forecasts (ECMWF) http://www.ecmwf.int/
+*	Japan Meteorological Agency http://www.jma.go.jp
+*	METAR data from airports http://en.wikipedia.org/wiki/METAR
+*	APRS network http://www.aprs-is.net/
+*	OpenWeatherMap: http://openweathermap.org/stations
+
+
+
 
 
 ###Earth Live
