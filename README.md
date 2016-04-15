@@ -72,6 +72,8 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Other resources:   
 		*	http://www.flightaware.com
 		*	Flight status or flight tracking information for major airlines
+*	Contrail Tools: http://cloudsgate2.larc.nasa.gov/cgi-bin/site/website?c=contrails
+
 
 
 ###Clear for Take Off
