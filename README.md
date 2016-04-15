@@ -236,7 +236,17 @@ Weather
 
 
 ###Asteroid Mining
-*	https://en.wikipedia.org/wiki/Asteroid_mining
+*	See links above in Near Earth Objects Machine Learning
+*	*	OSIRIS-REX mission: 
+	*	http://www.asteroidmission.org/mission/#explore-instruments
+	*	http://www.nasa.gov/content/goddard/new-nasa-mission-to-help-us-learn-how-to-mine-asteroids/
+*	Glass Beads, Meteorite Fragments Hold Secret to Working on Asteroids: http://www.nasa.gov/feature/glass-beads-meteorite-fragments-hold-secret-to-working-on-asteroids
+*	Consider what tools and vehicles you might use to accomplish the task:
+	*	NEA Scout Mission: http://www.jpl.nasa.gov/cubesat/missions/neascout.php
+	*	WRANGLER: http://www.nasa.gov/content/wrangler-capture-and-de-spin-of-asteroids-and-space-debris/#.VxFE7fkrLmE
+*	How to Mine an Asteroid http://www.popularmechanics.com/space/a7942/how-to-mine-an-asteroid-11644811/
+*	NASA JPL Roobotic Microspines https://www.youtube.com/watch?v=0KUdyBm6bcY
+*	Resourece Prospector Mission: https://www.nasa.gov/resource-prospector/ 
 
 
 ###Vesta Revealed
