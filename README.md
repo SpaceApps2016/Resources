@@ -88,6 +88,12 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 ###Low Boom
 *	NASA Sonic Boom Data: https://data.nasa.gov/docs/aeronautics/lowboom.html
+*	NASA Armstrong Fact Sheet: Sonic Booms	https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-016-DFRC.html
+*	http://www.nasa.gov/aero/sonic_boom_takes_shape.html	
+*	New Probe Could Improve Sonic Boom Investigation https://www.nasa.gov/centers/armstrong/features/eagle_aero_probe.html?linkId=22201577
+*	Stark Beauty of Supersonic Shock Waves http://www.nasa.gov/image-feature/stark-beauty-of-supersonic-shock-waves/
+*	Interactive Display Provides Pilots with Real-Time Sonic Boom Information http://www.nasa.gov/offices/ipp/centers/dfrc/technology/DRC-008-001-RT-SonicBoom.html
+*	CISBoomDA: Interactive Display Provides Pilots with Real-Time Sonic Boom Mapping https://www.youtube.com/watch?v=OgfcbzxlS_Q
 
 ***
 ##SPACE STATION
