@@ -1,7 +1,7 @@
 # Space Apps 2016 Challenge Resources
 
 
-Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.
+Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.  Also consider searching https://code.nasa.gov/#/ and https://software.nasa.gov/advancedsearch. 
 
 ***
 ##Technology
@@ -62,7 +62,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 		*	Google Earth maps
 		*	Mobile device GPS locator
 		*	www.skyvector.com
-
+*	Well-Clear Violation Volumes for Concept of Integration of Unmanned Arial Vehicles in the National Air Space https://software.nasa.gov/software/LAR-18464-1
 
 ###Clouds or Contrails
 *	Contrails education:  http://science-edu.larc.nasa.gov/contrail-edu/
@@ -278,6 +278,7 @@ Weather
 *	National Snow and Ice Data Center (NSIDC): http://nsidc.org/
 *	Alaska SAR Facility (ASF): https://www.asf.alaska.edu/
 *	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
+*	https://code.nasa.gov/#/
 
 
 ###Geotagging Space and Aviation
@@ -301,15 +302,16 @@ Weather
 *	National Archives: American Military History – Aviation: http://www.archives.gov/research/alic/reference/military/american-military-history.html#aviation 
 *	Examples of geo-based apps/games (not sure if they should be included or not)
 	*	Field Trip: https://support.fieldtripper.com/hc/en-us/articles/208866807-Frequently-Asked-Questions-FAQ
-	*	Create Ingress Missions: https://support.ingress.com/hc/en-us/articles/206475078-Create-Ingress-Missions-the-basics 
-
+	*	Create Ingress Missions: https://support.ingress.com/hc/en-us/articles/206475078-Create-Ingress-Missions-the-basics
+*	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
 
 ###eMobile Pastoralism
 *	Datasets : Earth observation data
 	* NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
 	* EARTHDATA: https://earthdata.nasa.gov/
 *	More Information about the global phenomenon: http://www.ifad.org/lrkm/factsheet/women_pastoralism.pdf
-
+*	https://code.nasa.gov/#/
+*	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
 
 ###Aircheck
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
@@ -325,9 +327,8 @@ Weather
 *	METAR data from airports http://en.wikipedia.org/wiki/METAR
 *	APRS network http://www.aprs-is.net/
 *	OpenWeatherMap: http://openweathermap.org/stations
-
-
-
+*	https://code.nasa.gov/#/
+*	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
 
 
 ###Earth Live
@@ -338,6 +339,7 @@ Weather
 *	SERVIR: https://servirglobal.net
 *	ArcGIS Online: http://www.esri.com/software/arcgis/arcgisonline
 *	Google Earth Gallery
+*	https://code.nasa.gov/#/
 
 ***
 ##JOURNEY TO MARS
