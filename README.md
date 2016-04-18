@@ -12,12 +12,14 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	More info on Mars: http://quest.nasa.gov/aero/planetary/mars.html
 *	Jet packs!: https://en.wikipedia.org/wiki/Jet_pack
 *	Mars Atmosphere Model (metric units): https://www.grc.nasa.gov/www/k-12/airplane/atmosmrm.html
+*	Airplanes on Mars: http://www.nasa.gov/centers/armstrong/features/mars_airplane.html
 *	The Mars Climate Database Projects: http://www-mars.lmd.jussieu.fr/ 
 	*	A web interface is provided to the database. If you want to download the full version database then please use the web link to request it. Do this well before the Space Apps Event!
 
 
 ###Print My Rocket
 *	Vehicle Assembly Building on KSC Partnerships site: http://kscpartnerships.ksc.nasa.gov/Partnering-Opportunities/Capabilities-and-Testing/Physical-Assets/Vehicle-Assembly-Building 
+*	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
 *	NASA 3D Models: VAB, Crawler: http://nasa3d.arc.nasa.gov/models
 *	KSC Resource Encyclopedia (page 323-324): http://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/KHB-1863?rhid=1000&did=35173&type=released&rev=$latest 
 *	First Work Platform for NASA's Space Launch System Installed in Vehicle Assembly Building http://www.nasa.gov/feature/first-work-platform-for-nasas-space-launch-system-installed-in-vehicle-assembly-building 
