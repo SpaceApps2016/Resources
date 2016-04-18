@@ -73,6 +73,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 		*	http://www.flightaware.com
 		*	Flight status or flight tracking information for major airlines
 *	Contrail Tools: http://cloudsgate2.larc.nasa.gov/cgi-bin/site/website?c=contrails
+*	GLOBE clouds and contrail data: http://vis.globe.gov/clouds
 
 
 
@@ -81,8 +82,8 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Virtual Skies: http://virtualskies.arc.nasa.gov/weather/index.html 
 *	Dynamic Weather Routes Tool: http://technology.nasa.gov/patent/TOP2-168
 *	Weather search on FAA Safety: https://www.faasafety.gov/search/default.aspx?keywords=weather&submit=Search 
-*	Aviation Weather Research Program: http://www.faa.gov/nextgen/programs/weather/awrp/Weather and Aviation: How 
-*	Does Weather Affect the Safety and Operations of Airports and Aviation, and How Does FAA Work to Manage Weather-related Effects?: climate.dot.gov/documents/workshop1002/kulesa.pdf 
+*	Aviation Weather Research Program: http://www.faa.gov/nextgen/programs/weather/awrp/
+*	Weather and Aviation: How Does Weather Affect the Safety and Operations of Airports and Aviation, and How Does FAA Work to Manage Weather-related Effects?: climate.dot.gov/documents/workshop1002/kulesa.pdf 
 *	NOAA Weather Satellites’ Eye on the Sky: http://www.jpss.noaa.gov/news-65.html
 *	Joint Polar Satellite System: http://www.jpss.noaa.gov/program.html
 
