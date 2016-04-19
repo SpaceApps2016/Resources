@@ -211,7 +211,7 @@ Weather
 	*	https://github.com/esa/auromat
 	*	http://pythonhosted.org/auromat/userguide/index.html
 *	General Background on Auroras: 
-*	http://www.nasa.gov/mission_pages/sunearth/news/gallery/aurora-index.html#.VxaoSfkrJD8 
+	*	http://www.nasa.gov/mission_pages/sunearth/news/gallery/aurora-index.html#.VxaoSfkrJD8 
 
 ***
 ##SOLAR SYSTEM
