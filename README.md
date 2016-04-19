@@ -88,6 +88,11 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Weather and Aviation: How Does Weather Affect the Safety and Operations of Airports and Aviation, and How Does FAA Work to Manage Weather-related Effects?: climate.dot.gov/documents/workshop1002/kulesa.pdf 
 *	NOAA Weather Satellites’ Eye on the Sky: http://www.jpss.noaa.gov/news-65.html
 *	Joint Polar Satellite System: http://www.jpss.noaa.gov/program.html
+*	Visual Flight Rules: 
+	*	https://www.faa.gov/air_traffic/flight_info/aeronav/productcatalog/vfrcharts/
+	*	https://www.faasafety.gov/files/gslac/courses/content/25/185/VFR%20Weather%20Minimums.pdf
+	*	http://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/
+*	Instrument Flight Rules: https://www.faa.gov/air_traffic/flight_info/aeronav/productcatalog/ifrcharts/ 
 
 ###Low Boom
 *	NASA Sonic Boom Data: https://data.nasa.gov/docs/aeronautics/lowboom.html
