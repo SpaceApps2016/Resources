@@ -49,6 +49,13 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	National Institute of Health 3D Print Exchange http://3dprint.nih.gov/ 
 *	"Additive Manufacturing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=Additive%20Manufacturing&Ntx=mode%20matchall 
 *	"3D Printing" on NASA Technical Reports Server (NTRS) http://ntrs.nasa.gov/search.jsp?Ntx=mode+matchall&Ntk=All&N=0&No=10&Ntt=3d+printing 
+*	Flight Opportunities Program: Vehicle Information 
+	*	https://flightopportunities.nasa.gov/platforms/ (Click on desired platform and view the Payload Users Guide)
+*	Launch Service Program information: 
+	*	http://www.nasa.gov/directorates/heo/launch_services/#.VxfMGvkrJD8  (Partner information on Left Side)
+*	Info on Cubesats: 
+	*	http://www.nasa.gov/mission_pages/cubesats/index.html 
+	*	Cubesats Requirements Document: http://www.nasa.gov/pdf/627972main_LSP-REQ-317_01A.pdf
 
 ***
 ##AERONAUTICS
