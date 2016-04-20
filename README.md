@@ -283,12 +283,19 @@ Weather
 *	Vesta Trek web portal: http://vestatrek.jpl.nasa.gov
 *	Chuck Clark’s website with examples of many applications and references: http://rightbasicbuilding.com/
 *	E-Book: Clark and Clark, Constant Scale Natural Boundary Mapping to Reveal Global and Cosmic Processes, 2013: https://goo.gl/sqp0Bc
+*	Digital terrain models for vesta at:
+	*	http://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_HAMO_DTM_DLR_Global_48ppd
+	*	http://dawndata.igpp.ucla.edu/tw.jsp?section=geometry/DTMs
+
 
 
 ###Open World Generation Using NASA Mars and Vesta Data
 *	Dataset Products are available online via WMTS-based APIs on [api.nasa.gov](https://api.nasa.gov/api.html#trek)
 *	Leverage existing Minecraft customizations such as [Galacticraft](https://github.com/micdoodle8/Galacticraft) or vanilla [Minecraft](https://minecraft.net/download) and implement as a plugin or mod.  
 *	View Apps using Mars and Vesta Data such as [http://marstrek.jpl.nasa.gov/](http://marstrek.jpl.nasa.gov/) or [http://vestatrek.jpl.nasa.gov/](http://vestatrek.jpl.nasa.gov/)
+*	Digital terrain models for vesta at:
+	*	http://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_HAMO_DTM_DLR_Global_48ppd
+	*	http://dawndata.igpp.ucla.edu/tw.jsp?section=geometry/DTMs
 
 ***
 ##EARTH
