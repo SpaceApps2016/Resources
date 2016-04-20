@@ -1,7 +1,7 @@
 # Space Apps 2016 Challenge Resources
 
 
-Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.  These resources are also listed and discoverable through NASA's catalog of publicly-available datasets, APIs, and visualizations available at https://data.nasa.gov/.  Also consider searching https://code.nasa.gov/#/ and https://software.nasa.gov/advancedsearch. 
+Use the following resources to supplement your solutions to each Space Apps challenge! Each challenge appears in one of six categories: Technology, Aeronautics, Space Station, Solar System, Earth, or Journey to Mars. Contact the challenge owners from the Space Apps challenge website for clarifications.  These resources are also listed and discoverable through NASA's catalog of publicly-available datasets, APIs, and visualizations available at https://api.nasa.gov/ and https://data.nasa.gov/.  Also consider searching https://code.nasa.gov/#/ and https://software.nasa.gov/advancedsearch. 
 
 ***
 ##Technology
