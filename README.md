@@ -93,6 +93,14 @@ Use the following resources to supplement your solutions to each Space Apps chal
 	*	https://www.faasafety.gov/files/gslac/courses/content/25/185/VFR%20Weather%20Minimums.pdf
 	*	http://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/
 *	Instrument Flight Rules: https://www.faa.gov/air_traffic/flight_info/aeronav/productcatalog/ifrcharts/ 
+*	Weather Datasets from NOAA: 
+	*	http://www.ncdc.noaa.gov/data-access
+	*	http://www.ncdc.noaa.gov/cdo-web/webservices/v2
+	*	http://graphical.weather.gov/xml/
+
+
+http://graphical.weather.gov/xml/
+
 
 ###Low Boom
 *	NASA Sonic Boom Data: https://data.nasa.gov/docs/aeronautics/lowboom.html
