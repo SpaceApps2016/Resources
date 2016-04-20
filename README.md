@@ -106,9 +106,6 @@ Use the following resources to supplement your solutions to each Space Apps chal
 	*	http://graphical.weather.gov/xml/
 
 
-http://graphical.weather.gov/xml/
-
-
 ###Low Boom
 *	NASA Sonic Boom Data: https://data.nasa.gov/docs/aeronautics/lowboom.html
 *	NASA Armstrong Fact Sheet: Sonic Booms	https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-016-DFRC.html
