@@ -72,6 +72,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 		*	Mobile device GPS locator
 		*	www.skyvector.com
 *	Well-Clear Violation Volumes for Concept of Integration of Unmanned Arial Vehicles in the National Air Space https://software.nasa.gov/software/LAR-18464-1
+*	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
 
 ###Clouds or Contrails
 *	Contrails education:  http://science-edu.larc.nasa.gov/contrail-edu/
@@ -83,6 +84,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 		*	Flight status or flight tracking information for major airlines
 *	Contrail Tools: http://cloudsgate2.larc.nasa.gov/cgi-bin/site/website?c=contrails
 *	GLOBE clouds and contrail data: http://vis.globe.gov/clouds
+*	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
 
 
 
@@ -104,6 +106,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 	*	http://www.ncdc.noaa.gov/data-access
 	*	http://www.ncdc.noaa.gov/cdo-web/webservices/v2
 	*	http://graphical.weather.gov/xml/
+	*	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
 
 
 ###Low Boom
