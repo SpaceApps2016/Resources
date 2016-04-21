@@ -261,11 +261,12 @@ Weather
 	*	3D models of asteroids, from radar and lightcurve inversion: http://space.frieger.com/asteroids/
 *	MPC Web service: orbits and some physical parameters: http://minorplanetcenter.net/web_service
 *	Potentially Hazardous Asteroids: http://www.minorplanetcenter.net/iau/MPCORB/PHA.txt
-*	Dates of last observation for NEAs and outer Solar System objects: http://www.minorplanetcenter.net/iau/MPC_Documentation.html
-*	List Of Aten Minor Planets (by designation): http://www.minorplanetcenter.net/iau/lists/Atens.html
-*	List Of Apollo Minor Planets (by designation): http://www.minorplanetcenter.net/iau/lists/Apollos.html
-*	List Of Amor Minor Planets (by designation): http://www.minorplanetcenter.net/iau/lists/Amors.html
-*	Dates Of Last Observation Of Unusual Minor Planets: http://www.minorplanetcenter.net/iau/lists/LastUnusual.html
+*	Data Available from the Minor Planet Center: http://minorplanetcenter.net/data/
+	*	Dates of last observation for NEAs and outer Solar System objects: http://www.minorplanetcenter.net/iau/MPC_Documentation.html
+	*	List Of Aten Minor Planets (by designation): http://www.minorplanetcenter.net/iau/lists/Atens.html
+	*	List Of Apollo Minor Planets (by designation): http://www.minorplanetcenter.net/iau/lists/Apollos.html
+	*	List Of Amor Minor Planets (by designation): http://www.minorplanetcenter.net/iau/lists/Amors.html
+	*	Dates Of Last Observation Of Unusual Minor Planets: http://www.minorplanetcenter.net/iau/lists/LastUnusual.html
 
 
 ###Asteroid Mining
