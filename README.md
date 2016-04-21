@@ -106,7 +106,8 @@ Use the following resources to supplement your solutions to each Space Apps chal
 	*	http://www.ncdc.noaa.gov/data-access
 	*	http://www.ncdc.noaa.gov/cdo-web/webservices/v2
 	*	http://graphical.weather.gov/xml/
-	*	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
+*	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
+*	Category I/II/III ILS information https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afs/afs400/afs410/status_lists/ 
 
 
 ###Low Boom
