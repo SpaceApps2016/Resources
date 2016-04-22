@@ -82,8 +82,7 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Evolution of a contrail:  http://earthobservatory.nasa.gov/IOTD/view.php?id=78154&src=eoa-iotd
 *	FAA Air Traffic Control System Command System: http://www.fly.faa.gov/Products/acc_AIS_warn.html
 *	Other resources:   
-		*	http://www.flightaware.com
-		*	Flight status or flight tracking information for major airlines
+		*	Flight status or flight tracking information for major airlines: http://services.faa.gov/
 *	Contrail Tools: http://cloudsgate2.larc.nasa.gov/cgi-bin/site/website?c=contrails
 *	GLOBE clouds and contrail data: http://vis.globe.gov/clouds
 *	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
@@ -106,9 +105,11 @@ Use the following resources to supplement your solutions to each Space Apps chal
 *	Instrument Flight Rules: https://www.faa.gov/air_traffic/flight_info/aeronav/productcatalog/ifrcharts/ 
 *	Weather Datasets from NOAA: 
 	*	http://www.ncdc.noaa.gov/data-access
-	*	http://www.ncdc.noaa.gov/cdo-web/webservices/v2
-	*	http://graphical.weather.gov/xml/
-*	FAA Data products: http://www.faa.gov/nextgen/programs/swim/products/
+	*	http://www.ncdc.noaa.gov/cdo-web/webservices/
+*	http://graphical.weather.gov/xml/
+*	FAA Data products: 
+        *       http://www.faa.gov/nextgen/programs/swim/products/
+        *       http://services.faa.gov/
 *	Category I/II/III ILS information https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afs/afs400/afs410/status_lists/ 
 
 
