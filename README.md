@@ -18,6 +18,8 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 
 ###Print My Rocket
+*	Preparing the Vehicle Assembly Building for the Future video https://www.youtube.com/watch?v=CYppcUc36mg
+*	Ground Systems Development and Operations Program YouTube playlist: https://www.youtube.com/watch?v=hkf6W8ORTt4&index=56&list=PLStC43yAV6zQQP6LfeTfipWSfxGFu4Mvb
 *	Vehicle Assembly Building on KSC Partnerships site: http://kscpartnerships.ksc.nasa.gov/Partnering-Opportunities/Capabilities-and-Testing/Physical-Assets/Vehicle-Assembly-Building 
 *	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
 *	NASA 3D Models: VAB, Crawler: http://nasa3d.arc.nasa.gov/models
@@ -404,6 +406,7 @@ Weather
 
 
 ###Space Route 66
+*	Center Planning & Development YouTube playlist: https://www.youtube.com/watch?v=FTytXb0R0Yk&index=10&list=PLStC43yAV6zQRcOG0XlrYYEBuvhESitIq
 *	KSC Center Planning and Development Office: http://kscpartnerships.ksc.nasa.gov/
 *	KSC Master Plan: http://masterplan.ksc.nasa.gov/ 
 *	KSC Resource Encyclopedia: http://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/KHB-1863?rhid=1000&did=35173&type=released&rev=$latest
