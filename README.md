@@ -18,6 +18,8 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 
 ###Print My Rocket
+*	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
+*	Friday KSC Google Hangout: https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=133
 *	Preparing the Vehicle Assembly Building for the Future video https://www.youtube.com/watch?v=CYppcUc36mg
 *	Ground Systems Development and Operations Program YouTube playlist: https://www.youtube.com/watch?v=hkf6W8ORTt4&index=56&list=PLStC43yAV6zQQP6LfeTfipWSfxGFu4Mvb
 *	Vehicle Assembly Building on KSC Partnerships site: http://kscpartnerships.ksc.nasa.gov/Partnering-Opportunities/Capabilities-and-Testing/Physical-Assets/Vehicle-Assembly-Building 
@@ -35,6 +37,9 @@ Use the following resources to supplement your solutions to each Space Apps chal
 
 
 ###Backfill My Model
+*	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
+*	Backfill My Model Google Hangout: https://www.youtube.com/watch?v=pBZl7uIiMEA&list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&index=2
+*	Friday KSC Google Hangout (Backfill My Model section): https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=545
 *	NASA 3D Resources http://nasa3d.arc.nasa.gov/models 
 *	3D Printing: Technology Drives Exploration: http://www.nasa.gov/topics/technology/manufacturing-materials-3d/index.html
 *	Mechanical CAD Translation Notes: https://step.nasa.gov/application_notes/mcad_translation.html  
@@ -126,6 +131,9 @@ Use the following resources to supplement your solutions to each Space Apps chal
 ##SPACE STATION
 
 ###Launch: A Global Experience
+*	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
+*	What It’s Like to Watch a Rocket Launch In-Person Google Hangout: https://www.youtube.com/watch?v=Y_eXP7X__M4&index=3&list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D
+*	Friday KSC Google Hangout (Launch: A Global Experience section): https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=1674
 Launch
 *	NASA Launch Services Program (LSP) website: http://www.nasa.gov/centers/kennedy/launchingrockets/
 	*	LSP Brochure: http://www.nasa.gov/centers/kennedy/pdf/678112main_LSP Brochure.pdf
@@ -321,6 +329,8 @@ Weather
 
 
 ###Geotagging Space and Aviation
+*	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
+*	Friday KSC Google Hangout: https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=1293
 *	NASA History: http://history.nasa.gov/ and http://www.nasa.gov/topics/history/index.html 
 *	Building Deep Space Exploration Systems: http://www.nasa.gov/externalflash/ESDSuppliersMap/
 *	NASA's Astronaut Fact Book: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -408,6 +418,8 @@ Weather
 
 
 ###Space Route 66
+*	Kennedy Space Center Judging & Prize: http://spaceappsksc.tumblr.com/post/142877335729/ksc-challenges-judging-prize
+*	Friday KSC Google Hangout: https://youtu.be/k4tXQ_qpls4?list=PLnD73N1pmY1RPuvMggUOB5rMj8ynC_j0D&t=966
 *	Center Planning & Development YouTube playlist: https://www.youtube.com/watch?v=FTytXb0R0Yk&index=10&list=PLStC43yAV6zQRcOG0XlrYYEBuvhESitIq
 *	KSC Center Planning and Development Office: http://kscpartnerships.ksc.nasa.gov/
 *	KSC Master Plan: http://masterplan.ksc.nasa.gov/ 
