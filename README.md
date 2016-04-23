@@ -323,6 +323,11 @@ https://wiki.earthdata.nasa.gov/display/GIBS/
 There is some sample code on how to use GIBS with Google Maps and other mapping libraries:
 https://github.com/nasa-gibs/gibs-web-examples
 
+The data format is not always the same across all NASA Earth data products, though HDF is one of the more common formats.  You can see a list of them here: https://earthdata.nasa.gov/user-resources/standards-and-references. and can see a list of data tools here:
+https://earthdata.nasa.gov/earth-observation-data/tools
+
+If you’re trying to insert data values into a database, we suggest starting with Level 3 data products as they are usually gridded and available globally.   See here for a description of data processing levels:
+http://science.nasa.gov/earth-science/earth-science-data/data-processing-levels-for-eosdis-data-products/
 
 ###Sea Ice App
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
