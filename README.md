@@ -317,6 +317,13 @@ Weather
 ***
 ##EARTH
 
+If you’d like to use NASA Earth data with Google Maps, you’ll want to use the Global Imagery Browse Services (GIBS):
+https://wiki.earthdata.nasa.gov/display/GIBS/
+
+There is some sample code on how to use GIBS with Google Maps and other mapping libraries:
+https://github.com/nasa-gibs/gibs-web-examples
+
+
 ###Sea Ice App
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
 *	GINA Puffin Feeder: http://feeder.gina.alaska.edu/
@@ -378,6 +385,9 @@ Weather
 *	OpenWeatherMap: http://openweathermap.org/stations
 *	https://code.nasa.gov/#/
 *	OnEarth software on GitHub: https://github.com/nasa-gibs/onearth
+*       Background on which datasets are relevant to air quality:
+https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality
+
 
 
 ###Earth Live
