@@ -330,6 +330,7 @@ If you’re trying to insert data values into a database, we suggest starting wi
 http://science.nasa.gov/earth-science/earth-science-data/data-processing-levels-for-eosdis-data-products/
 
 ###Sea Ice App
+*	Sea Ice API  https://www.asf.alaska.edu/sea-ice/
 *	NASA Global Imagery Browse Services (GIBS): https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
 *	GINA Puffin Feeder: http://feeder.gina.alaska.edu/
 *	Android implementation of the Gina Puffin Feeder software on GitHub: https://github.com/hank/gina-puffinfeeder
