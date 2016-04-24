@@ -258,7 +258,7 @@ Weather
 
 ###Near Earth Object Machine Learning
 *	A list of close approaches to the earth: http://www.minorplanetcenter.net/iau/lists/CloseApp.html
-*	The JPL Small-Body Database: http:/ / ssd.jpl.nasa.gov/ sbdb.cgi
+*	The JPL Small-Body Database: http://ssd.jpl.nasa.gov/ sbdb.cgi
 	*	orbital elements 
 	*	orbit diagrams 
 	*	physical parameters 
@@ -268,7 +268,7 @@ Weather
 	*	http://neo.jpl.nasa.gov/fireball
 *	This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 *	NEOWISE NEA/COMET Discovery: http://neo.jpl.nasa.gov/programs/neowise.html
-*	Near Earth Objects (NeoWs) API - With NeoWs, a user can search for Asteroids based on their closest approach date to Earth, lookup a specific Asteroid with its NASA JPL small body ID HED Compendium (Meteorites from VESTA)  http:/ / curator.jsc.nasa.gov/ antmet/ hed/ hed_compendium.cfm
+*	Near Earth Objects (NeoWs) API - With NeoWs, a user can search for Asteroids based on their closest approach date to Earth, lookup a specific Asteroid with its NASA JPL small body ID HED Compendium (Meteorites from VESTA)  http://curator.jsc.nasa.gov/ antmet/hed/hed_compendium.cfm
 *	The Lunar Reconnaissance Orbiter (Moon craters): http://lunar.gsfc.nasa.gov/
 *	The MPC Orbit (MPCORB) database contains orbital elements of minor planets that have been published in the Minor Planet Circulars, the Minor Planet Orbit Supplement and the Minor Planet Electronic Circulars: http://www.minorplanetcenter.net/iau/MPCORB.html
 *	PHA Orbits (Potentially Hazardous Asteroids): http://neo.jpl.nasa.gov/orbits/
