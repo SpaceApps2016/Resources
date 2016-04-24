@@ -225,6 +225,9 @@ Weather
 *	Combined Operational Load Bearing External Resistance Treadmill (COLBERT): http://www.nasa.gov/mission_pages/station/research/experiments/765.html
 *	Wikipedia article on treadmills with vibration isolation: https://en.wikipedia.org/wiki/Treadmill_with_Vibration_Isolation_Stabilization
 *	Video on Working Out on the ISS: https://www.youtube.com/watch?v=irCmnn5vIRQ&feature=share&list=PLiuUQ9asub3S34pyIicCQgHyFUErfpxSz
+*	Exercising in Space Videos: http://www.nasa.gov/audience/foreducators/stem-on-station/ditl_exercising
+*	Physical response of Apollo astronauts before, during, after stress test: https://lsda.jsc.nasa.gov/lsda_data/dataset_inv_data/JMAPAP012_732.xls
+*	Advanced Resistive Exercise Device: http://www.nasa.gov/mission_pages/station/research/experiments/1001.html
 
 
 ###Virtual Auroras
