@@ -307,7 +307,7 @@ Weather
 *	Digital terrain models for vesta at:
 	*	http://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_HAMO_DTM_DLR_Global_48ppd
 	*	http://dawndata.igpp.ucla.edu/tw.jsp?section=geometry/DTMs
-
+*.      Tutorial about converting digital elevation models: http://webgis.wr.usgs.gov/pigwad/tutorials/arcgis10.Basic_converting_data.pdf
 
 
 ###Open World Generation Using NASA Mars and Vesta Data
@@ -318,6 +318,8 @@ Weather
 	*	http://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_HAMO_DTM_DLR_Global_48ppd
 	*	http://dawndata.igpp.ucla.edu/tw.jsp?section=geometry/DTMs
 *       DEM Grayscale -Mars Orbiter Altimiter: For the heights, you might want to use "DEM Grayscale - Mars Orbiter Laser Altimeter”. The data is in 8 bit grayscale.  You can apply scale and offset to find the height value. You can find the snippet here. https://docs.google.com/document/d/1kqjl981WWxWZPkeopgodUFEbDePRlV7GEsNtMfeXKP8/edit?usp=sharing
+
+
 ***
 ##EARTH
 
