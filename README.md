@@ -307,7 +307,7 @@ Weather
 *	Digital terrain models for vesta at:
 	*	http://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_HAMO_DTM_DLR_Global_48ppd
 	*	http://dawndata.igpp.ucla.edu/tw.jsp?section=geometry/DTMs
-*.      Tutorial about converting digital elevation models: http://webgis.wr.usgs.gov/pigwad/tutorials/arcgis10.Basic_converting_data.pdf
+*       Tutorial about converting digital elevation models: http://webgis.wr.usgs.gov/pigwad/tutorials/arcgis10.Basic_converting_data.pdf
 
 
 ###Open World Generation Using NASA Mars and Vesta Data
