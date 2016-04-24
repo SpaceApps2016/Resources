@@ -224,6 +224,7 @@ Weather
 *	Advanced Resistive Exercise Device (ARED): http://www.nasa.gov/mission_pages/station/research/experiments/1001.html
 *	Combined Operational Load Bearing External Resistance Treadmill (COLBERT): http://www.nasa.gov/mission_pages/station/research/experiments/765.html
 *	Wikipedia article on treadmills with vibration isolation: https://en.wikipedia.org/wiki/Treadmill_with_Vibration_Isolation_Stabilization
+*	Video on Working Out on the ISS: https://www.youtube.com/watch?v=irCmnn5vIRQ&feature=share&list=PLiuUQ9asub3S34pyIicCQgHyFUErfpxSz
 
 
 ###Virtual Auroras
