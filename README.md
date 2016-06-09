@@ -217,6 +217,21 @@ Weather
 
 *	NASA is using wearables to monitor Personal CO2 on orbit. Excessive CO2 causes headaches, dizziness, and blood pressure spikes. Even with scrubbing technology on Station, pockets of CO2 can go undetected in the space environment. The Personal CO2 monitor’s an astronaut’s immediate surroundings.
 	*	http://www.nasa.gov/mission_pages/station/research/experiments/2101.html
+*	GeneLab http://genelab.nasa.gov
+*	Behavior Tracking Software Enhancement and Integration Feedback https://data.nasa.gov/external-dataset?datasetId=bcb2-aw9v
+*	In-flight Non-Invasive Sensing of Blood Analytes https://data.nasa.gov/external-dataset?datasetId=iv9x-kdnk
+*	Monitoring Microbes in Spacecraft Environment https://data.nasa.gov/external-dataset?datasetId=4xp2-q25f
+*	ESPRIT: Exercise Sensing and Pose Recovery Inference https://data.nasa.gov/external-dataset?datasetId=kbtw-jrma
+*	Wearable Beat to Beat Blood Pressure Monitor https://data.nasa.gov/external-dataset?datasetId=gsk3-5bn7
+*	Nanoscale Test Strips for Multiplexed Blood Analysis https://data.nasa.gov/external-dataset?datasetId=6ame-gjy6
+*	In Situ Aerosol Detector https://data.nasa.gov/external-dataset?datasetId=m59n-zi79
+*	In-situ Monitoring of Immune Function https://data.nasa.gov/external-dataset?datasetId=iv9x-kdnk
+*	Livingstone2 (AI software system designed to assist life support systems to operate robustly with minimal human supervision: 
+	*	https://data.nasa.gov/external-dataset?datasetId=27r9-hj26
+*	Environmental Performance Index (EPI) to reduce environmental stress on human health and promote ecosystem vitality:
+	*	https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
+*	Synthetic Assessment of Global Distribution of Vulnerability to Climate:
+	*	https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
 
 
 ###Astrocize
