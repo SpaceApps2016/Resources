@@ -214,7 +214,6 @@ Weather
 *	Wearables help astronauts onboard the International Space Station monitor heart rates and breathing patterns, and collects data to investigate whether changes in heart activity are related to astronauts’ poor sleep quality. Textiles can be infused with technology to provide perspective on multiple investigations, such as respiration, body acceleration, skin temperature, and more.
 	*	http://www.nasa.gov/mission_pages/station/research/experiments/1279.html
 	*	http://spaceflight101.com/iss/wearable-monitoring/
-
 *	NASA is using wearables to monitor Personal CO2 on orbit. Excessive CO2 causes headaches, dizziness, and blood pressure spikes. Even with scrubbing technology on Station, pockets of CO2 can go undetected in the space environment. The Personal CO2 monitor’s an astronaut’s immediate surroundings.
 	*	http://www.nasa.gov/mission_pages/station/research/experiments/2101.html
 *	GeneLab http://genelab.nasa.gov
@@ -226,12 +225,9 @@ Weather
 *	Nanoscale Test Strips for Multiplexed Blood Analysis https://data.nasa.gov/external-dataset?datasetId=6ame-gjy6
 *	In Situ Aerosol Detector https://data.nasa.gov/external-dataset?datasetId=m59n-zi79
 *	In-situ Monitoring of Immune Function https://data.nasa.gov/external-dataset?datasetId=iv9x-kdnk
-*	Livingstone2 (AI software system designed to assist life support systems to operate robustly with minimal human supervision: 
-	*	https://data.nasa.gov/external-dataset?datasetId=27r9-hj26
-*	Environmental Performance Index (EPI) to reduce environmental stress on human health and promote ecosystem vitality:
-	*	https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
-*	Synthetic Assessment of Global Distribution of Vulnerability to Climate:
-	*	https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
+*	Livingstone2 (AI software system designed to assist life support systems to operate robustly with minimal human supervision: https://data.nasa.gov/external-dataset?datasetId=27r9-hj26
+*	Environmental Performance Index (EPI) to reduce environmental stress on human health and promote ecosystem vitality: https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
+*	Synthetic Assessment of Global Distribution of Vulnerability to Climate: https://data.nasa.gov/external-dataset?datasetId=6ub7-u9fa
 
 
 ###Astrocize
